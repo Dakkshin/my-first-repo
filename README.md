@@ -1,2 +1,4 @@
 # my-first-repo
-My first repo to test out GitHub Desktop
+This is my first GitHub repository.
+
+My first change
